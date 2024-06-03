@@ -47,7 +47,7 @@ If you use or extend our work, please consider citing our paper. Thank you for y
 ```
 @article{xu2024sayself,
       title={SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales}, 
-      author={Xu, Tianyang and Wu, Shujin and Diao, Shizhe and Liu, Xiaoze and Wang, Xingyao and Chen, Yangyi and Gao, Jing},      Yuan, Lifan and Chen, Yangyi and Wang, Xingyao and Fung, Yi R. and Peng, Hao and Ji, Heng},
+      author={Xu, Tianyang and Wu, Shujin and Diao, Shizhe and Liu, Xiaoze and Wang, Xingyao and Chen, Yangyi and Gao, Jing},
       journal={arXiv preprint arXiv:2405.20974},
       year={2024}
 }
