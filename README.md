@@ -1,4 +1,4 @@
-# <img src="./figures/icon.png" width="60" height="auto" alt="SaySelf logo"> [SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales]()
+# <img src="./figures/icon.png" width="60" height="auto" alt="SaySelf logo"> [SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales](https://arxiv.org/abs/2405.20974)
 
 
 ## Overview
@@ -44,3 +44,12 @@ Faithfulness evaluation results in Table 4 are generated in two steps:
 
 ## Citation
 If you use or extend our work, please consider citing our paper. Thank you for your support! 🥰
+```
+@article{xu2024sayself,
+      title={SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales}, 
+      author={Xu, Tianyang and Wu, Shujin and Diao, Shizhe and Liu, Xiaoze and Wang, Xingyao and Chen, Yangyi and Gao, Jing},
+      journal={arXiv preprint arXiv:2405.20974},
+      year={2024}
+}
+```
+
