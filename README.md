@@ -1,4 +1,4 @@
-# <img src="./figures/icon.png" width="60" height="auto" alt="SaySelf logo"> [SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales](https://arxiv.org/abs/2405.20974)
+# <img src="./figures/icon.png" width="60" height="auto" alt="SaySelf logo"> [SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales](https://arxiv.org/abs/2405.20974) [EMNLP 2024]
 
 
 ## Overview
